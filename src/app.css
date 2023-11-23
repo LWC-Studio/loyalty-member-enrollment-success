@@ -1,0 +1,58 @@
+.member-enroll-success-container {
+    background: url('https://image.s4.sfmc-content.com/lib/fe30117276640474731270/m/1/ffe75c08-0c90-4e7f-aa46-92747aa1a8cd.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 22px;
+    background-color: #fff;
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    right: 1.5rem;
+    top: 1rem;
+    color: #09101D;
+    font-size: 1rem;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    align-items: center;
+    text-align: center;
+}
+
+.subtitle {
+    color: #181818;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+}
+
+.c-button {
+    --sds-c-button-brand-color-text-disabled: #747B84;
+    --sds-c-button-brand-color-background-disabled: #F4F6F9;
+    --sds-c-button-brand-color-border-disabled: transparent;
+    --sds-c-button-brand-color-background: var(--lwc-colorBrand);
+    --sds-c-button-brand-color-border: transparent;
+    --sds-c-button-brand-color-text: #FFF;
+    --sds-c-button-brand-color-background-hover: var(--lwc-colorBrand);
+    --sds-c-button-brand-color-border-hover: transparent;
+    --sds-c-button-brand-color-text-hover: #FFF;
+    --sds-c-button-brand-color-background-active: var(--lwc-colorBrand);
+    --sds-c-button-brand-color-border-active: transparent;
+    --sds-c-button-brand-color-text-active: #FFF;
+    --sds-c-button-shadow-focus: none;
+
+    width: 100%;
+    padding: 10px 17px;
+    border-radius: 10px;
+    line-height: 140%;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
